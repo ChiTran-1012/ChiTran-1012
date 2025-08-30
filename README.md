@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chi Tran
 
-> Một câu slogan/description ngắn gọn về bạn. Ví dụ: "Sinh viên IT đam mê lập trình web & khám phá công nghệ mới 🚀"
+> N.G.U: Never Give Up
 
 ---
 
