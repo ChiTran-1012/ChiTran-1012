@@ -15,7 +15,7 @@
 ## 🛠 Skills
 | Frontend | Backend | Database | Tools |
 |----------|---------|---------|-------|
-| React, Tailwind CSS | Node.js, .NET MAUI, Flask | MySQL, MongoDB | Git, GitHub |
+| React, Tailwind CSS | PHP | MySQL, MongoDB | Git, GitHub |
 
 ---
 
