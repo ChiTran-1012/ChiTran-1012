@@ -18,7 +18,7 @@
 | React, Tailwind CSS | PHP | MySQL, MongoDB | Git, GitHub |
 
 ---
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiTran-1012)](https://github.com/anuraghazra/github-readme-stats)
 > Nếu muốn xem tất cả dự án, ghé thăm [GitHub profile của tôi](https://github.com/ChiTran-1012)
 
 ---
